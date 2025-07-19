@@ -1,0 +1,8 @@
+"mod"
+{
+	"name" "Mod Menu"
+	"id" "modmenu"
+	"description" "Mod menu framework built to support any mod."
+	"version" "1.0"
+	"author" "ReGlitched"
+}
